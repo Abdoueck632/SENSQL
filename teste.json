@@ -1,0 +1,60 @@
+{
+    "Etudiant": [
+        {
+            "id": [
+                "integer",
+                "primary key"
+            ],
+            "prenom": [
+                "varchar(50)",
+                "check"
+            ],
+            "nom": [
+                "varchar(100)",
+                "null"
+            ],
+            "age": [
+                "integer",
+                "check"
+            ]
+        }
+    ],
+    "animal": [
+        {
+            "id": [
+                "integer",
+                "primary key"
+            ],
+            "prenom": [
+                "varchar(50)",
+                "check"
+            ],
+            "nom": [
+                "varchar(100)",
+                "null"
+            ],
+            "age": [
+                "integer",
+                "check"
+            ],
+            "mode_de_deplacement": [
+                "varchar(50)",
+                "not nulll"
+            ]
+        },
+        {
+            "id": "14",
+            "prenom": "chat",
+            "nom": "SOW",
+            "age": "24",
+            "mode_de_deplacement": "Marche"
+        },
+        {
+            "id": "13",
+            "prenom": "cheivre",
+            "nom": "beuye",
+            "age": "3",
+            "mode_de_deplacement": "Marche"
+        }
+    ]
+}

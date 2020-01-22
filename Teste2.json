@@ -1,0 +1,22 @@
+{
+    "id": [
+        {
+            "": [
+                "varchar(50)",
+                "null"
+            ],
+            "prenom": [
+                "varchar(50)",
+                "null"
+            ],
+            "nom": [
+                "varchar(50)",
+                "null"
+            ],
+            "dfdfd": [
+                "varchar(50)",
+                "null"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "admin": {
+        "login": "admin",
+        "password": "admin1234",
+        "listeDB": {
+            "Teste.json": "rw",
+            "Etudiant.json": "rwd",
+            "PErsonne.json": "rwd",
+            "Base.json": "rwd",
+            "Base1.json": "rwd"
+        }
+    },
+    "khadyba": {
+        "login": "khadyba",
+        "password": "aliou",
+        "listeDB": {
+            "Teste.json": "rw",
+            "Etudiant.json": "rwd",
+            "PErsonne.json": "rwd",
+            "Base.json": "rwd"
+        }
+    },
+    "abdouseck": {
+        "login": "abdouseck",
+        "password": "seck96",
+        "listeDB": {
+            "teste.json": "rw",
+            "Etudiant.json": "rwd",
+            "PErsonne.json": "rwd",
+            "Base.json": "rwd",
+            "Base1.json": "rwd"
+        }
+    }
+}

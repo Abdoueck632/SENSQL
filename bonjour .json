@@ -1,0 +1,50 @@
+{
+    "Personne": [
+        {
+            "cni": "int",
+            "nom": "String",
+            "Prenom": "String",
+            "age": "int"
+        },
+        {
+            "cni": "14585555555555",
+            "nom": "Dieng",
+            "Prenom": "Weureul",
+            "age": "23"
+        },
+        {
+            "cni": "55898955",
+            "nom": "Sow",
+            "Prenom": "Maestro",
+            "age": "26"
+        }
+    ],
+    "Maison": [
+        {
+            "superficie": "int",
+            "NombreDePersonne": "int",
+            "Adresse": "String",
+            "DateDeConstruction": "Date"
+        }
+    ],
+    "Universite": [
+        {
+            "id": "int",
+            "nom": "String",
+            "DateDeCreation": "Date",
+            "adresse": "String"
+        },
+        {
+            "id": "154",
+            "nom": "Université CHeikh Anta DIOP",
+            "DateDeCreation": "14-02-1958",
+            "adresse": "Dakar-FANN"
+        },
+        {
+            "id": "2564",
+            "nom": "Université de Thies",
+            "DateDeCreation": "14-11-2007",
+            "adresse": "Thies-Thies_none"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "animal": [
+        {
+            "id": [
+                "integer",
+                "primary key"
+            ],
+            "prenom": [
+                "varchar(50)",
+                "check"
+            ],
+            "nom": [
+                "varchar(100)",
+                "null"
+            ],
+            "age": [
+                "integer",
+                "check"
+            ]
+        },
+        {
+            "id":"14",
+            "prenom":"Lion",
+            "nom": "SECK",
+            "age":"24"
+        },
+        {
+            "id":"14",
+            "prenom":"chat",
+            "nom": "SOW",
+            "age":"24"
+        }
+    ]
+}
